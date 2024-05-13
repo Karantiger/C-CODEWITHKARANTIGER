@@ -19,3 +19,15 @@ int main() {
 
     return 0;
 }
+
+/*Output
+
+The volume of the cuboid with dimensions:
+Height: 10.00 cm
+Width: 12.00 cm
+Length: 8.00 cm
+Volume is: 960.00 cubic cm
+
+
+=== Code Execution Successful ===
+*/
