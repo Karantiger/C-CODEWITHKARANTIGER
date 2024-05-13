@@ -20,3 +20,14 @@ int main()
     }
     return 0;
 }
+
+/*Output
+    A 
+   B C 
+  D E F 
+ G H I J 
+K L M N O 
+
+
+=== Code Execution Successful ===
+*/
