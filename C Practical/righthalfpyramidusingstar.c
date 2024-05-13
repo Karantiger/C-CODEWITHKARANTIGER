@@ -20,3 +20,15 @@ printf("\n");
 }
 return 0;
 }
+
+/*Output
+Enter the number of rows:5
+    *
+   **
+  ***
+ ****
+*****
+
+
+=== Code Execution Successful ===
+*/
