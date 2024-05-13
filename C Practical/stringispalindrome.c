@@ -26,3 +26,14 @@ int main() {
 
     return 0;
 }
+
+/*Output
+
+Enter a string: 1001
+1001 is a palindrome.
+
+Enter a string: 1000
+1000 is not a palindrome.
+
+=== Code Execution Successful ===
+*/
