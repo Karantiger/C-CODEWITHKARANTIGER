@@ -12,3 +12,11 @@ int main()
     printf("Subtraction=%d\n",d);
     return 0;
 }
+
+/* Output */
+/*
+ Enter two numbers
+12 32
+Addition=44
+Subtraction=-20
+*/
