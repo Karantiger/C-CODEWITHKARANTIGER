@@ -29,3 +29,12 @@ int main() {
 
     return 0;
 }
+
+/*Output
+
+Enter a number: 145
+145 is a strong number.
+
+Enter a number: 150
+150 is a strong number.
+*/
