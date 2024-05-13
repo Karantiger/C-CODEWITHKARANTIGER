@@ -21,3 +21,15 @@ int main()
 
     return 0;
 }
+
+/*Output*/
+/*
+Enter a number: 147
+Given number is not armstrong
+
+Enter a number: 153
+Given number is armstrong
+
+
+=== Code Execution Successful ===
+*/
