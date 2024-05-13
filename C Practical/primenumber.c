@@ -24,3 +24,14 @@ int main()
     }
     return 0;
 }
+
+/*Output
+
+Enter the number:6
+Not a Prime number
+
+Enter the number:5
+Prime number
+
+=== Code Execution Successful ===
+*/
