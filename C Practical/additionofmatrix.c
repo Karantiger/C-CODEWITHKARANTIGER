@@ -46,3 +46,38 @@ int main() {
 
     return 0;
 }
+
+
+/*Output*/
+/*
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter elements of the first matrix:
+Enter element a11: 1
+Enter element a12: 2
+Enter element a13: 3
+Enter element a21: 4
+Enter element a22: 5
+Enter element a23: 6
+Enter element a31: 7
+Enter element a32: 8
+Enter element a33: 9
+Enter elements of the second matrix:
+Enter element b11: 9
+Enter element b12: 8
+Enter element b13: 7
+Enter element b21: 6
+Enter element b22: 5
+Enter element b23: 4
+Enter element b31: 3
+Enter element b32: 2
+Enter element b33: 1
+
+Sum of the two matrices:
+10 10 10 
+10 10 10 
+10 10 10 
+
+
+=== Code Execution Successful ===
+*/
