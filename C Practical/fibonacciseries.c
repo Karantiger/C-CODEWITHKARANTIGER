@@ -15,3 +15,17 @@ int main()
     
     return 0;
 }
+
+/*Output
+
+Enter the number: 5
+0
+1
+1
+2
+3
+5
+
+=== Code Execution Successful ===
+
+*/
