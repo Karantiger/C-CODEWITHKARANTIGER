@@ -31,3 +31,17 @@ int main() {
 
     return 0;
 }
+
+/*Output
+Enter the number of integers: 5
+Enter number 1: 12
+Enter number 2: 64
+Enter number 3: 86
+Enter number 4: 59
+Enter number 5: 02
+The largest number is: 86
+The smallest number is: 2
+
+
+=== Code Execution Successful ===
+*/
