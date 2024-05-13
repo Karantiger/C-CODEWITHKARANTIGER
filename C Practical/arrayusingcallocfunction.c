@@ -21,4 +21,22 @@ int main()
     free(p);
     return 0;
 }
+
+
 /*output*/
+/*
+Enter the number of elements: 5
+1
+2
+3
+4
+5
+
+
+1
+2
+3
+4
+5
+=== Code Execution Successful ===
+*/
