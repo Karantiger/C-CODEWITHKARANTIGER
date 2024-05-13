@@ -3,7 +3,7 @@
 int main()
 {
     int a,b,sum,avg,c;
-    printf("Enter three numbers:");
+    printf("Enter three numbers:\n");
     scanf("%d%d%d",&a,&b,&c);
 
     sum=a+b+c;
@@ -14,3 +14,13 @@ int main()
 
     return 0;
 }
+/*Output
+Enter three numbers: 
+56
+87
+98
+Sum of three numbers is: 241
+Average of three numbers is:  80
+
+=== Code Execution Successful ===
+*/
