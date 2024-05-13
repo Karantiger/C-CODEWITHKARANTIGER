@@ -23,3 +23,13 @@ int main()
     }
     return 0;
 }
+
+/*Output
+Enter the number:6
+Factor of given no: 1
+Factor of given no: 2
+Factor of given no: 3
+6 is a perfect number
+
+=== Code Execution Successful ===
+*/
