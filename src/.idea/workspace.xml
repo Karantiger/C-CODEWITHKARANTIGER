@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75543e54-8deb-4489-9bb1-767c8922a9e9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kYI9ydmHT5q2F2jHkhjbtXgrX8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Kadanealgorithims.executor": "Run",
+    "Application.Maxsubarrayprefix.executor": "Run",
+    "Application.SUMOFDIGIT.executor": "Run",
+    "Application.array.executor": "Run",
+    "Application.basicpattern.executor": "Run",
+    "Application.basics.executor": "Run",
+    "Application.binarySearch.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.butterfly.executor": "Run",
+    "Application.buysellstock.executor": "Run",
+    "Application.calculateAverageMarks.executor": "Run",
+    "Application.evenFunction.executor": "Run",
+    "Application.fullbutterfly.executor": "Run",
+    "Application.givenIntegerIsPresent.executor": "Run",
+    "Application.halfbutterfly.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.helloPhp.executor": "Run",
+    "Application.largestNumber.executor": "Run",
+    "Application.linearsearch.executor": "Run",
+    "Application.maximumElementInArray.executor": "Run",
+    "Application.maxsubarray.executor": "Run",
+    "Application.minimumElementInArray.executor": "Run",
+    "Application.negativekadanesalgo.executor": "Run",
+    "Application.pairsinarray.executor": "Run",
+    "Application.palindrome.executor": "Run",
+    "Application.passbyreference.executor": "Run",
+    "Application.printArray.executor": "Run",
+    "Application.reverseAnArray.executor": "Run",
+    "Application.reverseArray.executor": "Run",
+    "Application.reversenaturalnum.executor": "Run",
+    "Application.subArray.executor": "Run",
+    "Application.sumOfArray.executor": "Run",
+    "Application.swap.executor": "Run",
+    "Application.trappedRainwater.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Java/src",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="apnacollegeDSA" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.practice.Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUMOFDIGIT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apnacollegeDSA.SUMOFDIGIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apnacollegeDSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apnacollegeDSA.palindrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apnacollegeDSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.reverseArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.reverseArray" />
+        <item itemvalue="Application.SUMOFDIGIT" />
+        <item itemvalue="Application.palindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75543e54-8deb-4489-9bb1-767c8922a9e9" name="Changes" comment="" />
+      <created>1723453935275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723453935275</updated>
+    </task>
+    <servers />
+  </component>
+</project>
